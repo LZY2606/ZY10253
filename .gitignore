@@ -34,3 +34,5 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+*.db
+data/
